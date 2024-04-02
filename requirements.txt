@@ -1,3 +1,4 @@
-llama-index
+llama-Index
 openai
 pypdf
+python-dotenv #to load my environment variable
