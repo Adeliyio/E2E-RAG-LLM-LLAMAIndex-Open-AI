@@ -1,1 +1,1 @@
-# E2E-RAG-LLM-LLAMAIndex-Open-AI
+# Retrieval LLM Generation APP
